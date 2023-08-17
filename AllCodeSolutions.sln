@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenandOdd", "EvenandOdd\Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique Elements", "Unique Elements\Unique Elements.csproj", "{5156A154-01DB-4301-A715-B2AAFEAB4869}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotation", "ArrayRotation\ArrayRotation.csproj", "{56AA58C6-19A7-4D6D-ACCC-822D948453F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIght ArrayRotation", "ArrayRotation\RIght ArrayRotation.csproj", "{56AA58C6-19A7-4D6D-ACCC-822D948453F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array rotation left", "Array rotation left\Array rotation left.csproj", "{DA73E484-E873-4D21-8480-D577FD05D2E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA73E484-E873-4D21-8480-D577FD05D2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA73E484-E873-4D21-8480-D577FD05D2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA73E484-E873-4D21-8480-D577FD05D2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA73E484-E873-4D21-8480-D577FD05D2E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
