@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sum", "FinalPractice\Array Sum.csproj", "{490DA6A9-241B-4740-9031-427E0DC9660E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Sum", "FinalPractice\Array Sum.csproj", "{490DA6A9-241B-4740-9031-427E0DC9660E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_avg", "array_avg\array_avg.csproj", "{CE255B23-3E95-414C-A324-70D632827C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array_avg", "array_avg\array_avg.csproj", "{CE255B23-3E95-414C-A324-70D632827C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest element in array", "Largest element in array\Largest element in array.csproj", "{BFA487A0-8379-4349-8D80-DB9043CC836A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest element in array", "Largest element in array\Largest element in array.csproj", "{BFA487A0-8379-4349-8D80-DB9043CC836A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse array", "reverse array\reverse array.csproj", "{457F5452-6161-4300-B1DD-F8793B328335}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse array", "reverse array\reverse array.csproj", "{457F5452-6161-4300-B1DD-F8793B328335}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumber", "EvenNumber\EvenNumber.csproj", "{8A9883A6-DF49-4B3B-80B6-594B5F3A8413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenNumber", "EvenNumber\EvenNumber.csproj", "{8A9883A6-DF49-4B3B-80B6-594B5F3A8413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumber", "OddNumber\OddNumber.csproj", "{98A85726-AA29-4771-87D7-409F770D9165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddNumber", "OddNumber\OddNumber.csproj", "{98A85726-AA29-4771-87D7-409F770D9165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenandOdd", "EvenandOdd\EvenandOdd.csproj", "{DEC066ED-DD77-4043-9F38-2F6397679FE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenandOdd", "EvenandOdd\EvenandOdd.csproj", "{DEC066ED-DD77-4043-9F38-2F6397679FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique Elements", "Unique Elements\Unique Elements.csproj", "{5156A154-01DB-4301-A715-B2AAFEAB4869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotation", "ArrayRotation\ArrayRotation.csproj", "{56AA58C6-19A7-4D6D-ACCC-822D948453F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{DEC066ED-DD77-4043-9F38-2F6397679FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC066ED-DD77-4043-9F38-2F6397679FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC066ED-DD77-4043-9F38-2F6397679FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5156A154-01DB-4301-A715-B2AAFEAB4869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5156A154-01DB-4301-A715-B2AAFEAB4869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5156A154-01DB-4301-A715-B2AAFEAB4869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5156A154-01DB-4301-A715-B2AAFEAB4869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AA58C6-19A7-4D6D-ACCC-822D948453F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
