@@ -22,7 +22,8 @@ namespace evenNumber
       {
         if (item % 2 == 0) 
         {
-          evenArray[index++] = item;
+          evenArray[index] = item;
+          index++;
         }
       }
       return evenArray;

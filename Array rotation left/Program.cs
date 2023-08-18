@@ -32,11 +32,7 @@ namespace arrayRotationLeft
         array_a[i] = int.Parse(Console.ReadLine());
       }
       int[] result = left_rev_array(array_a,num);
-      foreach (int item in result) 
-      {
-        Console.Write(item + " ") ;
-      }
-
+      Console.WriteLine("reversed array: " + string.Join(",", result));
     }
   }
 }
